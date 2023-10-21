@@ -1,5 +1,5 @@
-# CesarSchool
-Projeto de Análise de Dados
+# Projeto de Análise de Dados - CesarSchool
+
 Este repositório contém um projeto de análise de dados que visa mostrar meu desempenho durante o curso de analise de dados da intituição Cesar School.
 
 Visão Geral
