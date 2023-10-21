@@ -1,9 +1,9 @@
 # Projeto de Análise de Dados - CesarSchool
 
-Este repositório contém um projeto de análise de dados que visa mostrar meu desempenho durante o curso de analise de dados da intituição Cesar School.
+Este repositório contém um projeto de análise de dados que visa mostrar meu desempenho durante o curso de analise de dados da instituição Cesar School.
 
 Visão Geral
-Serve para decorrer toda minha trajetorio durante o curso
+Serve para decorrer toda minha trajetória durante o curso
 
 Conjunto de Dados
 1ª analise - dados de vacinação da Covid no estado de pernambuco
